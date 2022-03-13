@@ -9,3 +9,8 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
+.container {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
